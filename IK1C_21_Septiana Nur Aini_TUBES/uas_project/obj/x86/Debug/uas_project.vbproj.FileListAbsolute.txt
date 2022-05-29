@@ -1,0 +1,30 @@
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\bin\Debug\uas_project.exe
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\bin\Debug\uas_project.pdb
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\bin\Debug\uas_project.xml
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\obj\x86\Debug\uas_project.vbproj.GenerateResource.Cache
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\obj\x86\Debug\uas_project.exe
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\obj\x86\Debug\uas_project.xml
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\obj\x86\Debug\uas_project.pdb
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\obj\x86\Debug\WindowsApplication1.Form_Login.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\obj\x86\Debug\WindowsApplication1.Form_koneksi.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\obj\x86\Debug\WindowsApplication1.Form_absensi.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\obj\x86\Debug\WindowsApplication1.Form_Menu.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\obj\x86\Debug\WindowsApplication1.Form_utama.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\obj\x86\Debug\WindowsApplication1.Form_Lembur.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\uas_project\uas_project\obj\x86\Debug\WindowsApplication1.Form_Gaji.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\obj\x86\Debug\uas_project.exe
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\obj\x86\Debug\uas_project.xml
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\obj\x86\Debug\uas_project.pdb
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\bin\Debug\uas_project.exe
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\bin\Debug\uas_project.pdb
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\bin\Debug\uas_project.xml
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\obj\x86\Debug\WindowsApplication1.Form_absensi.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\obj\x86\Debug\WindowsApplication1.Form_Gaji.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\obj\x86\Debug\WindowsApplication1.Form_koneksi.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\obj\x86\Debug\WindowsApplication1.Form_Lembur.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\obj\x86\Debug\WindowsApplication1.Form_Login.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\obj\x86\Debug\WindowsApplication1.Form_Menu.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\obj\x86\Debug\WindowsApplication1.Form_utama.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\SEPTIANA NUR AINI\SEMESTER 2\PEMROGRAMAN VISUAL\uas\IK1C_21_Septiana Nur Aini_UAS\IK1C_21_Septiana Nur Aini_TUBES\uas_project\obj\x86\Debug\uas_project.vbproj.GenerateResource.Cache
